@@ -8,11 +8,12 @@ public class Trailer {
         this.vægt = vægt;
     }
 
-    public String getMærke() {
-        return mærke;
-    }
-
     public int getVægt() {
         return vægt;
     }
+
+    public String getMærke() {
+        return mærke;
+    }
 }
+
